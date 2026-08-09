@@ -1,4 +1,4 @@
-This is my personal health tracker app built in Kotlin using Jetpack Compose for the UI. I wanted something simple, reliable, and fully native to track vitals like blood pressure, heart rate, weight, and baby kicks.
+This is personal health tracker app built in Kotlin using Jetpack Compose for the UI. I wanted something simple, reliable, and fully native to track vitals like blood pressure, heart rate, weight, and baby kicks.
 
 The app follows MVVM architecture for a clean separation of concerns. I use Room to store data safely on the device, StateFlow for smooth state management, and LiveData where reactive updates are needed. Dependency Injection is handled using Hilt, which keeps the code clean, testable, and easy to maintain.
 
